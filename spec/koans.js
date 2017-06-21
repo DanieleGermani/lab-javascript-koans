@@ -339,7 +339,7 @@ describe("the JavaScript language", function() {
       }
 
       var f = plus(5);
-
+      
       //expect(f(3)).toBe();
     });
 
